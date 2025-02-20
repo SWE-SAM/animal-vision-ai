@@ -38,7 +38,7 @@ Make sure to have **Laravel Artisan (v11)**, **composer**, **node.js etc.** inst
 ### 5. Running the website:
 1. Start **XAMPP Apache** & **MySQL**
 2. Run in terminal **php artisan serve** and **Ctrl + Click** on the link that appears
-3. If that does not work, manually launch the server using **php -S 127.0.0.1:8000 -t public**
+3. If that does not work, manually launch the server using **php -S 127.0.0.1:8000 -t public** http://127.0.0.1:8000/
 
 ## Azure AI Computer Vision
 1. Go onto microsoft's Azure AI student signup and use your student email to create a account
